@@ -2,7 +2,7 @@ namespace MediatorChatApp
 {
     public abstract class Usuario
     {
-        protected readonly IChatMediator _mediator;
+        protected readonly IChatMediator _mediador;
         public string Nome {get; private set;}
 
         protected Usuario (IChatMediator mediador, string nome)
