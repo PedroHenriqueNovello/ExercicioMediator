@@ -1,0 +1,5 @@
+C:\Users\Pedro\OneDrive\Documentos\Faculdade\ProjOO\ExercicioMediator\obj\Debug\net9.0\ExercicioMediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\OneDrive\Documentos\Faculdade\ProjOO\ExercicioMediator\obj\Debug\net9.0\ExercicioMediator.AssemblyInfoInputs.cache
+C:\Users\Pedro\OneDrive\Documentos\Faculdade\ProjOO\ExercicioMediator\obj\Debug\net9.0\ExercicioMediator.AssemblyInfo.cs
+C:\Users\Pedro\OneDrive\Documentos\Faculdade\ProjOO\ExercicioMediator\obj\Debug\net9.0\ExercicioMediator.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\OneDrive\Documentos\Faculdade\ProjOO\ExercicioMediator\obj\Debug\net9.0\ExercicioMediator.sourcelink.json
