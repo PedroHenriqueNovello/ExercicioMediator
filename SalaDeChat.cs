@@ -14,7 +14,7 @@ namespace MediatorChatApp
             Console.WriteLine($"[SISTEMA] {usuario.Nome} entrou na sala.");
         }
 
-        public void EnviarMensagem (string mensagem, Usuario remetente)
+        public void EnviaMensagem (string mensagem, Usuario remetente)
         {
             foreach (var usuario in _usuarios)
             {
