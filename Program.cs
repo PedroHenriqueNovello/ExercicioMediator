@@ -2,7 +2,7 @@ using System;
 using System.Threading.Channels;
 using Microsoft.VisualBasic;
 
-namespace MeaditorChatApp
+namespace MediatorChatApp
 {
     class Program
     {
