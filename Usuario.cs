@@ -1,4 +1,4 @@
-namespace MediatorApp
+namespace MediatorChatApp
 {
     public abstract class Usuario
     {
